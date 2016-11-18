@@ -1,4 +1,4 @@
-// 测试禁用Fast forword模式
+// 测试stash
 var a = 7;
 for(;a<=0;a--){
     console.log(a);
