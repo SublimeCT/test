@@ -1,4 +1,4 @@
-// 测试禁用 stash 2
+// 测试禁用stash
 var a = 7;
 for(;a<=0;a--){
     console.log(a);
